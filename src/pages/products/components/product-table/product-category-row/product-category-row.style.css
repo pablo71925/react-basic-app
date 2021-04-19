@@ -1,0 +1,16 @@
+.product-category-row-container {
+   width: 95%; 
+   margin: 0 auto;
+   min-height: 28px;
+   border: 1px solid turquoise ;
+   margin-top: 10px;
+  
+}
+
+.titulo{
+text-align: left;
+word-spacing: 60px;
+}
+.categoria{
+   text-align: left;
+}
